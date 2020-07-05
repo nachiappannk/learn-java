@@ -5,4 +5,6 @@
  * The access modifiers a class can have are public and unspecified or default
  * The public classes are accessible outside the package.
  * The default (or unspecified) classes are not accessible outside the package
+ * Java package names can not contain hyphen. They can contain underscore. They can not contain keywords as well
+
  
